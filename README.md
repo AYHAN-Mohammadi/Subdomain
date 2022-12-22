@@ -11,4 +11,4 @@ Version php +7.4
   
    
     
-    developr : t.me/ayhan_dev
+developr: t.me/ayhan_dev
